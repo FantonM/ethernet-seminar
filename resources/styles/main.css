@@ -18,9 +18,11 @@ body {
     min-height: 100%;
     text-rendering: optimizeLegibility;
     position: relative;
+    
+}
+body article{
     border: 25px solid green;
 }
-
 a {
     color: black;
     text-decoration: none;
