@@ -6,7 +6,8 @@
 }
 
 body {
-    background-image: url(../images/backgrounds/background.png);
+    /*background-image: url(../images/backgrounds/background.png);*/
+    background-colour: rgb(148, 153, 158);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
