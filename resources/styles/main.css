@@ -31,7 +31,7 @@ hr {
     background-color: rgba(156, 0, 0, 1);
 }
 
-.footer {
+#footer {
    	position: absolute;
 	left: 0;
 	right: 0;
@@ -43,7 +43,7 @@ hr {
    	text-align: center;
 }
 
-    .footer a {
+    #footer a {
         color: white;
     }
 
