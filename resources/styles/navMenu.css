@@ -17,7 +17,7 @@ header {
 	}
 	
 	header > .menuUp {
-		box-shadow: 0 3px 5px rgba(0,0,0,.15);
+		box-shadow: none;
 	}
 	
 		header > div#logo > h1 {
@@ -130,6 +130,7 @@ header {
 	}
 	header > div#logo > div#navToggle {
 		display: none;
+		background-color: rgba(255, 153, 255);	
 	}
 	
 	header {
@@ -150,7 +151,7 @@ header {
 		}
 	
 			header > div#logo > h1 {
-				color: rgb(102, 204, 255);
+				color: rgb(140, 193, 193);
 			}
 			
 	header > nav {
