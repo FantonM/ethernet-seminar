@@ -130,7 +130,8 @@ header {
 	}
 	header > div#logo > div#navToggle {
 		display: none;
-		background-color: rgba(255, 153, 255);	
+		background-color: rgba(153, 153, 255);
+		text-decoration: underline;
 	}
 	
 	header {
