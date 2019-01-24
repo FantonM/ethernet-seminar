@@ -146,7 +146,7 @@ header {
 	}
 	
 		header > div#logo {
-			background-color: blue;
+			background-color: transparent;
 			line-height: 90px;
 		}
 	
